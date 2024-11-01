@@ -1,0 +1,1 @@
+scnShortcodeMeta={attributes:[{label:"Quote",id:"content",isRequired:true},{label:"Style",id:"style",help:"Values: &lt;empty&gt; or boxed."},{label:"Float",id:"float",help:"Values: &lt;empty&gt;, left, right."}],defaultContent:"Climbing is the only cure for gravity.",shortcode:"quote"};

@@ -1,0 +1,2 @@
+scnShortcodeMeta={attributes:[{label:"Content",id:"content",isRequired:true},{label:"Type",id:"type",help:"Values: &lt;empty&gt;, info, alert, tick, download, note."},{label:"Size",id:"size",help:"Values: &lt;empty&gt;, medium, large."},{label:"Style",id:"style",help:"Values: &lt;empty&gt; or rounded."},{label:"Border",id:"border",help:"Values: &lt;empty&gt;, none, full."},{label:"Icon",id:"icon",help:"Values: &lt;empty&gt;, none (for no icon), or full URL to a custom icon."}],defaultContent:"Don't box me in.",
+shortcode:"box"};
